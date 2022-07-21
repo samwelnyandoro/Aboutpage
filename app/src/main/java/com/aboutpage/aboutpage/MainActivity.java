@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         View aboutPage = new AboutPage(this)
                 .isRTL(false)
                 .setImage(R.drawable.filee)
-                .addItem(new Element().setTitle("Version 1.0.1"))
+                .addItem(new Element().setTitle("Version 1.0.2"))
                 .addItem(adsElement)
                 .addGroup("Connect with us")
                 .addEmail("samwelnyandoro1@gmail.com")
