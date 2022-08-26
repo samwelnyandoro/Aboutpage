@@ -7,7 +7,7 @@
 
 dependencies {
 
-	        implementation 'com.github.samwelnyandoro:AboutpageLibrary:v1.0.0'
+	        implementation 'com.github.samwelnyandoro:AboutpageLibrary:1.0.0'
           
 	}
   
