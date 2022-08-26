@@ -219,7 +219,7 @@ public class Element {
     }
 
     /**
-     * Skip Applying a custom tint usefull when the provided drawable isn't a vectorDrawable
+     * Skip Applying a custom tint useful when the provided drawable isn't a vectorDrawable
      * @param skipTint
      */
     public void setSkipTint(Boolean skipTint) {
