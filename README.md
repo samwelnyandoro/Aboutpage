@@ -1,6 +1,15 @@
 # AboutpageLibrary
 # Library showing how to implement about us page in android
 
+<p align="center">
+  You can use this service for free. I'm looking for sponsors to help us keep up with this service❤️
+</p>
+<p align="center">
+  <a href="https://github.com/sponsors/samwelnyandoro">
+    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
+  </a>
+</p>
+
 # Setup
 
 # Available on Jcenter, Maven and JitPack
